@@ -4,7 +4,7 @@ A data science project applying the **Box-Jenkins methodology** to forecast mont
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - **R** (forecasting and time series libraries)  
 - **R Markdown** / **knitr** (for reproducible report and poster)  
@@ -13,7 +13,7 @@ A data science project applying the **Box-Jenkins methodology** to forecast mont
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ~~~text
 .
@@ -28,7 +28,7 @@ A data science project applying the **Box-Jenkins methodology** to forecast mont
 
 ---
 
-## 📊 Methodology
+## Methodology
 
 1. **Data Preprocessing**  
    - Converted monthly data into time series objects (`tsibble`).  
@@ -57,7 +57,7 @@ A data science project applying the **Box-Jenkins methodology** to forecast mont
 
 ---
 
-## ✅ Requirements
+## Requirements
 
 - **R 4.0+**  
 - Libraries:  
@@ -69,7 +69,7 @@ A data science project applying the **Box-Jenkins methodology** to forecast mont
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone this repository:
    ~~~bash
@@ -83,6 +83,6 @@ A data science project applying the **Box-Jenkins methodology** to forecast mont
 
 ---
 
-## 📄 License
+## License
 
 This project is under MIT License
