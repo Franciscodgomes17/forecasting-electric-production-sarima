@@ -17,17 +17,13 @@ A data science project applying the **Box-Jenkins methodology** to forecast mont
 
 ~~~text
 .
-├─ data/
-│  └─ electric_production.csv        # dataset from Kaggle
-├─ notebooks/
-│  ├─ exploratory_analysis.Rmd       # initial EDA and transformations
-│  ├─ model_selection.Rmd            # SARIMA identification and tests
-│  └─ forecasting.Rmd                # final model fitting and forecasts
-├─ docs/
-│  ├─ Poster_Eletric.knit.pdf        # final poster
-│  └─ Report.pdf                     # extended report (optional)
+├─ electric_production.csv  # dataset from Kaggle
+├─ eletric_production.rmd
+├─ Report.pdf                 
 ├─ README.md
 └─ LICENSE
+└─ requirements.txt
+
 ~~~
 
 ---
