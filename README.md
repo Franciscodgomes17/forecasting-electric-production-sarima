@@ -89,5 +89,4 @@ A data science project applying the **Box-Jenkins methodology** to forecast mont
 
 ## 📄 License
 
-Choose the license that fits (MIT recommended for portfolios).
-
+This project is under MIT License
